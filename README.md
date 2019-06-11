@@ -7,4 +7,4 @@ Referrence:
 1. [**Applied Deep Learning with PyTorch - Full Course**](https://www.youtube.com/watch?v=CNuI8OWsppg)
 2. [**Chatbot Tutorial on PyTorch.org**](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)
 
-> For detailed information on the script, please follow the youtube video.
+> For detailed information, please follow the youtube video and PyTorch site.
